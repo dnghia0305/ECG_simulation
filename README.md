@@ -1,6 +1,6 @@
 # ECG_simulation
 
-You should dowload matlab to using this code.
+You should download matlab to using this code.
 
 This code is able to input values into every variable and draw them into one graph.
 
